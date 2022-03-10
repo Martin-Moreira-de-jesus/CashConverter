@@ -4,7 +4,7 @@ import android.content.Context;
 
 public abstract class Converter {
     public float rate = -1f;
-
+    protected ConverterListener listener;
     public abstract void init(Context context);
 
     public float getRate() {

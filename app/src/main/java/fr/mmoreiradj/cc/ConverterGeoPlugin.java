@@ -16,7 +16,6 @@ public class ConverterGeoPlugin extends Converter {
 
     protected static final String url = "http://geoplugin.net/json.gp?base_currency=USD";
     protected RequestQueue queue;
-    protected ConverterListener listener;
 
     @Override
     public void init(Context context) {
