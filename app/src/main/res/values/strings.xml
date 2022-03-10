@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cash Convertor</string>
+    <string name="logo">€ash€onv</string>
+    <string name="USD_acronym">USD</string>
+    <string name="EUR_acronym">EUR</string>
+    <string name="convert">Convert</string>
+    <string name="empty_value">-</string>
+    <string name="default_conversion_rate">Conversion Rate: 0</string>
+</resources>
